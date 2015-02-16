@@ -1,5 +1,4 @@
 class Beer
-    # THI SIS ALL SCREWED U"P NOW!!!!
     
 	attr_accessor :bottles, :location
 
